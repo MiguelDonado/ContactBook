@@ -1,0 +1,8 @@
+*.sqlite
+client_secrets.json
+ContactBook.code-workspace
+/__pycache__/
+/.vscode/
+*.txt
+/Authentication/
+backup.py
